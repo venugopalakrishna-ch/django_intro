@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'snickers.apps.SnickersConfig',
+    'kitkat.apps.KitkatConfig',
 ]
 
 MIDDLEWARE = [
